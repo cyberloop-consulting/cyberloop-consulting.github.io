@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.caa0e505.chunk.css",
-    "main.js": "/static/js/main.8aabddb5.chunk.js",
-    "main.js.map": "/static/js/main.8aabddb5.chunk.js.map",
+    "main.js": "/static/js/main.9ed163bd.chunk.js",
+    "main.js.map": "/static/js/main.9ed163bd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.56b6a3d0.js",
     "runtime-main.js.map": "/static/js/runtime-main.56b6a3d0.js.map",
-    "static/js/2.d2f6c326.chunk.js": "/static/js/2.d2f6c326.chunk.js",
-    "static/js/2.d2f6c326.chunk.js.map": "/static/js/2.d2f6c326.chunk.js.map",
+    "static/js/2.413e82cc.chunk.js": "/static/js/2.413e82cc.chunk.js",
+    "static/js/2.413e82cc.chunk.js.map": "/static/js/2.413e82cc.chunk.js.map",
     "static/js/3.e068fa29.chunk.js": "/static/js/3.e068fa29.chunk.js",
     "static/js/3.e068fa29.chunk.js.map": "/static/js/3.e068fa29.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.caa0e505.chunk.css.map": "/static/css/main.caa0e505.chunk.css.map",
-    "static/js/2.d2f6c326.chunk.js.LICENSE.txt": "/static/js/2.d2f6c326.chunk.js.LICENSE.txt",
+    "static/js/2.413e82cc.chunk.js.LICENSE.txt": "/static/js/2.413e82cc.chunk.js.LICENSE.txt",
     "static/media/CYBER ATTACK.600ee9cc.svg": "/static/media/CYBER ATTACK.600ee9cc.svg",
     "static/media/Clusit1134x591.d68113b4.jfif": "/static/media/Clusit1134x591.d68113b4.jfif",
     "static/media/DEFENSE-IN-DEPTH.09ef8c74.svg": "/static/media/DEFENSE-IN-DEPTH.09ef8c74.svg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.56b6a3d0.js",
-    "static/js/2.d2f6c326.chunk.js",
+    "static/js/2.413e82cc.chunk.js",
     "static/css/main.caa0e505.chunk.css",
-    "static/js/main.8aabddb5.chunk.js"
+    "static/js/main.9ed163bd.chunk.js"
   ]
 }
